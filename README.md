@@ -1,7 +1,7 @@
 <!-- -> 배지는 https://shields.io/
 -> 아이콘은 https://simpleicons.org/ -->
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> -->
-## 🌟Kim Mi Seo <a href="https://velog.io/@rlaaltj1765"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/seomiii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseomiii&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+## 🌟Kim MiSeo <a href="https://velog.io/@rlaaltj1765"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/seomiii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseomiii&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 </br>
 
 🔭Working
