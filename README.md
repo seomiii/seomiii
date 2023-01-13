@@ -4,7 +4,7 @@
 ## 🌟Kim MiSeo <a href="https://velog.io/@rlaaltj1765"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/seomiii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseomiii&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 </br>
 
-🔭Working
+🔭Projects
 
 <a href="https://github.com/SONSU-2022"><img src="https://img.shields.io/badge/SONSU-lightgrey?style=flat&logo=GitHub&logoColor=white"/></a>
 
